@@ -1,0 +1,1479 @@
+{
+  "Medicines" : [
+   {
+     "Name": "Inj. Lignocaine HCL 2% w/v",
+     "Units": "30ml (vial)",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Diclofenac Sodium 25mg/ml",
+     "Units": "3 ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Pentazocine Lactate 30mg/ml",
+     "Units": "1ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Atropine Suplhate 0.6 mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Dexamethasone Sodium Phosphate 4mg/ml",
+     "Units": "2 ml vial/amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Hydrocortisone Sodium Succinate 100mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Pheniramine Maleate 22.75 mg/ml",
+     "Units": "2ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Pomethazine Hcl 25mg/ml",
+     "Units": "2ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Diclmine Hcl 10mg/ml",
+     "Units": "2ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Thephylline and Etofylline (50.6mg + 1694mg)",
+     "Units": "2ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Methyl Ergometrine 0.2mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Oxytocin 5 IU /ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Tetanus Toxoid (Adsorbed)",
+     "Units": "0.5 ml Amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Metaclopramide 5mg/ml",
+     "Units": "2 ml Amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Diazepam 5 mg/ml",
+     "Units": "2 ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Anti Rabies Vaccine (Cell Culture) 2.5 IU/Dose",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Snake Venom Anti Serum IP (Freezed dried 10ml Polyvalent)",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftrixone 4 mg",
+     "Units": "Vial",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Ceftrixone 250 mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Amoxycillin + Clauvinic Acid (1gm + 200mg)",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Amikacin Suphate 100 mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Amikacin Suphate 500mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftriaxone 1gm + Supbactum 500 mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftazadime 250mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftazadime 500mg",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Cefoparazone 1gm",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Rantidine IP 25mg/ml",
+     "Units": "2ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Frusemide IP 25mg/ml",
+     "Units": "2ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Hydocine Butyl Bromide 20mg/ml",
+     "Units": "1 ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Paracetamol 150mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Dopamine 200mg/5ml",
+     "Units": "5 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Pralidoxime 500mg",
+     "Units": "20 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Adrenaline 1mg/ml ",
+     "Units": "20ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Sodium bicarbonate 7.5%",
+     "Units": "5 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Aqueous solution of haemocoagulose",
+     "Units": "2 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Carboprost Tromethamine 250mcg/ml",
+     "Units": "1 ml ",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Tramadol 50mg/ml",
+     "Units": "2ml ",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Neostigmine 0.5mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Bupivacaine Hydrochloride in dextrose monohydrate USP ",
+     "Units": "4 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Betamethasone Sod. Phosphate, I.P - 4 mg per 1 ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ondensetron USP 2 mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Phenytoin Sodium 50mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Pottasium Chloride 150 mg/ml",
+     "Units": "10ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Ketamine Hydrochloride 10 mg/ml ",
+     "Units": "10 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ampicillin Anhydrous 500 mg/vial",
+     "Units": "500mg vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Magnesium Sulphate- Magnesium Sulphate IP 50% w/v",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Calcium Gluconate 1gm I.V. 10ml amp with 10% Calcium Gluconate",
+     "Units": "10 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Haloperidol 5 mg/ml",
+     "Units": "1ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Human Insulin Plain 40 IU /ml",
+     "Units": "1 ml amp",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Ethamsylate 250mg/2ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Menaphthone (Vitamin K3) 10mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Sterile Water for Injection, IP",
+     "Units": "5 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Plasma Volume Expander 3.5% Polygeline infusion (Hemaccel) 500",
+     "Units": "500 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Metronidazole I.V. 5 mg/ml",
+     "Units": "100 ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Streptokinase 7,50,000 IU",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Nitroglycerine 5 mg/ml",
+     "Units": "5ml amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Midazolam 1 mg/ml",
+     "Units": "5 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Lorazepam 2ml/ml",
+     "Units": "2 ml Amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Morphine 10mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Isoxsprine Hcl 5 mg/ml",
+     "Units": "2 ml Amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Chlorpromazine HCL 25mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Vecuronium 4mg/2ml vial",
+     "Units": "Vial",
+     "Available": "No"
+   },
+   {
+     "Name": "Inj. Atracurium Besylate 10mgml",
+     "Units": "2.5ml pack",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Halothane",
+     "Units": "250ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Bhupivacine IP 50mg/ml",
+     "Units": "4 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Succinyl Choline Chloride IP 50mg/ml",
+     "Units": "10 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Tinidazole 2 mg/ml",
+     "Units": "400 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Isofluarane USP 100ml",
+     "Units": "100 ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Propofal 10mg/ml",
+     "Units": "10ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Heparine Sodium Inj. IP 5000 IU/ ml (IM/IV USE)",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Trenexamine Acid 100mg/ml",
+     "Units": "5 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Fluids",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Ciproflaxamine 200mg/100ml",
+     "Units": "100 ml ",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Normal Saline (Sodium Chloride 0.9%)",
+     "Units": "500 ml Btl",
+     "Available": "No"
+   },
+   {
+     "Name": "Multiple Electrolyte P",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Multiple Electrolyte G",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Multiple Electrolyte M",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Manitol 20%",
+     "Units": "100 ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Dextrose 5%",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Dextrose 10%",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Dextrose (25%) 100ml",
+     "Units": "100 ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Dextrose Saline 5% w/v to 0.9% w/v",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I.V. Ringer Lacatate",
+     "Units": "500 ml Btl",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Eye/Ear/Nasal Drops",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cipro 0.3% + Dexa 0.1% Eye Drops",
+     "Units": "5 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Gentamycin 0.3% Eye/Ear Drops",
+     "Units": "10 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Xylometazolino 0.1% & Saline Nasal Drops 10 ml",
+     "Units": "10 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tablets and Capsules",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Paracetamol 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Levo Cetrizine 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cetrizine Hcl 10 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ibuprofen coated 400 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cefpodoxime 200 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Albendazole 400 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Tinidazole 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Rantidine 150 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Atenolol 50 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Amylodipine 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Dicylomine Hcl 10 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Salbutamol 4 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Metformin 500 mg SR",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Glimipride 2 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Glibenclamide 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ferrous Sulphate with Folic Acid 0.5mg Ferrous Iron 100mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Phenytoin Sodium 100 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Metacloramide 10 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ciprofloxacin coated 250 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ciprofloxacin coated 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Amoxycillin 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Nifedipine 10 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Nifedipine 20 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cephalexin Dispersable 250 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cotrimoxazole S.S. (Trimethoprim 80mg+ Suphamethoxazole 400mg)",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Amoxyllin + Clauvinic Acid- 500 mg + 125 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cefixime 200mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ofloxacine",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Amoxyllin Dispersable 125mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Amoxyllin Dispersable 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Fluconazole coated 150 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Prednisolone 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Etophyline & Thephyline 77mg + 23mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Bisacodyl 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap Amoxycillin 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap Venlafaxine HCL 75mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap Flouxetine 20mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Furazolidone IP 100mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Frusemide 40mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Multi vitamin NFI Formula ",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Enalpril 2.5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Isosorvide Dinitrate 5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab Isosorvide Dinitrate 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Doxylamine succinate 10mg +Pyridoxione Hcl 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Diazepam 5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Diclofenac Sodium 50mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Domperidone 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Erythromycin Stearate 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Chloroquine Phosphate 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Norfloxacin 400mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ofloxacin + Ornidazole (200mg + 500mg)",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ornidazole 500m",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Azithromycin 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Azithromycin 500mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Paracetamol 500mg + Diclofenac Sodium 50mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Levofloxacin 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cefuroxime Axetil 250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cefuroxime Axetil 500mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ascorbic Acid 500mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Diclofenac Sodium 50g + Serratiopeptidase 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Serratiopeptidase 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Calcium 250 IU",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Mrthyl Ergometrine 0.125mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Losartan 25mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Losartan 50mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Losartan 50mg + Hydrochlorthiazide 12.5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Folic Acid 5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Acctyl Salicyclic Acid 75mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Pentaperazole 40mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Dexamethasone 4mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Zinc Sulphate Dispersable 20mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Premaquine 2.5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Premaquine 7.5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Methyldopa IP eq. to Methyldopa anhydrous250mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Mesoprostol -IP 200mcg oral",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Hyoscine Butyl Bromide 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Clonidine 0.1mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Tramadol 50mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Chlorodiazepoxide 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Lorazepam 1mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Lorazepam 2mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Nitrazepam 5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Nitrazepam 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ketorolac 10 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab.Chlorpromazine 50mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Phenobarbitone 30mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Phenobarbitone 60mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Carbamezapine 200mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Risperidone 2mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Risperidone 3mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Olanzapine 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Olanzapine 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Clonazepam 0.5mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Clonazepam 1 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Trihexiphendyl 2 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Escitalopram 10mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Sertaline 50 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Sertaline 100 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Lithium Carbonate IP 300mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Acyclovir IP 200mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Ponidone Idodine Vaginal Pessaries 200 with applicators",
+     "Units": "Pack of 6 Tabs.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Clotrimazole Vaginal Pessaries 100 mg with applicators",
+     "Units": "Pack of 6 Tabs.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Solutions, Creams, Applications",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Soln. Chlorhexidine wiyh Cetrimide 7.5% v/v + 15% w/v, Isoropyl alchlohal 7% v/v",
+     "Units": "1000ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Soln. Povidine Iodine 5% w/v",
+     "Units": "500 ml Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Soln. Chlorhexidine Gluconate 0.2%",
+     "Units": "50ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Soln. Hydrogen Peroxide IP 20 Vol",
+     "Units": "500ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Vitamin A Solution 100ml",
+     "Units": "100ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Silver Sulphadiazene 1% w/v cream",
+     "Units": "500 gm Jar",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Gama Benzene Hexachloride 1% lotion",
+     "Units": "1 ltr. Jar",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Miconazole Cream 2%",
+     "Units": "15 gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Oint. Betamethasone with Salisylic Acid ",
+     "Units": "20 gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Clotrimazole + Betamethasone cream IP (1% + 0.5 %) w/w",
+     "Units": "10 gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Lignocaine HCL Gel 2% w/v",
+     "Units": "30 gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Povidione Iodine Scrub 7.5%",
+     "Units": "500 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Clobetasol 0.05% + Salicysalic Acid 3% v/v Cream/Ointment",
+     "Units": "10gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Clotrimazole Cream 1%",
+     "Units": "10gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Povidone Iodine Scrub 7.5%",
+     "Units": "500ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Gention Violet Paint 1% BP/USP",
+     "Units": "100ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Gentamyin80 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrups/Suspensions",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Salbutamol 2mg/5ml",
+     "Units": "100ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Cetrizine 5mg/5ml",
+     "Units": "30ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Paracetamol 125mg/5ml",
+     "Units": "60 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Promethazine Hydrochloride 5mg/5ml",
+     "Units": "60ml pet Btl.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Cotrimoxazole Trimethoprim 40mg+ Sulphamethoxazole 200mg/5ml",
+     "Units": "50 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Dicycolmine Oral Sol. IP 10mg",
+     "Units": "50ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cough Syrup Containing Codeine Phosphate 10 mg/5ml, CPM 4mg/5ml",
+     "Units": "100 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Salbutamol Respirator Solution 5mg/ml",
+     "Units": "15ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "ORS Powder WHO Formula with Citrate salt 20.5gm pouch",
+     "Units": "Sachet",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syp Amoxycillin 125mg/5ml (60ml bottle)",
+     "Units": "60 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Susp Albendazole 200mg/5ml",
+     "Units": "10ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Susp Furazolidone 25mg/5ml",
+     "Units": "60 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Glycrin",
+     "Units": "400 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syp Domperidone 5mg/5ml",
+     "Units": "30ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Ampicillin Oral Suspension 125mg/5ml",
+     "Units": "60 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Azithromycin Syp 100mg/5ml",
+     "Units": "15ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syp Norfloxcin 100 mg + Metronidazole 100mg/5ml",
+     "Units": "60 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Liquid Iron: Each 5ml contains Ferrous Sulphate I.P. 100mg q.s. 100ml bottle",
+     "Units": "100 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Nifedipine IP 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Amiodarone Hcl 150mg/3ml",
+     "Units": "3 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Budesonide Respirator Solution (Budesonide 0.5mg/2ml)",
+     "Units": "2 ml pack",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Benzathene Pencillin 12Lac units-vial",
+     "Units": "Vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Cotrimoxazole (Paed) i.e Trimethoprim IP 200mg+ Sulphamethoxazole IP 100mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Neosporin-h Ear Drop Content",
+     "Units": "5 ml vial",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Glycopysolate USP 0.2 mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Iron Folic Acid Small (45 mg elemental Iron and 400 Microgram Folic Acid)",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Aminophylline I.P 25 mg/ml",
+     "Units": "2 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Phenobarbitone Sodium I.P 130 mg/ml",
+     "Units": "1 ml amp",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Sol. Gluteraldehyde I.P 2%",
+     "Units": "5 Ltr HDPE",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Xylometazolin HCL Nasal Sol. USP 0.1% w/v",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Ointment Povidone 5% w/w",
+     "Units": "15 gm tube",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Psychotropics Drugs ",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Injection Fluphenazinc Decanoate 25mg/ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Trifluperazine 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Risperiidone 1 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Clozapine 25mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Haloporidol 5 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Sodium Valoorate 300mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Medicines under School Health Programe",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Red (Small) Iron and Folic Acid Tablets Red (Small) Each enteric",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Iron and Folic Acid Tablets (Large) Blue Coloured (Indigo Carmine)……",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Medicines under JSSK",
+     "Units": "",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Drotaverine 40 mg /2ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Cefotaxime 250 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Cefotaxime 500 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Cefotaxime 1 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Micronised Progesterone 100mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Mephentine 15mg/1ml amp",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Mephentermine 30mg/1ml amp",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Anti-D Immunoglobulin 300mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Iron Sucrose I.V. 100 mg /5ml ",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Piperacillin + Tazobactum 1.25 gm (Piperacillin 1 gm + Tazobactam 125mg)",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Piperacillin + Tazobactum 4.5 gm (Piperacillin 4 gm + Tazobactam 500mg)",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Imipenem 250 mg and Cilastatin 250mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Imipenem 500 mg and Cilastatin 500mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Imipenem 1 gm and Cilastatin 1gm",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Valethamate Bromide 8 mg/1ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I/v Paracetamol Infusion 100ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Normal Saline 100ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj.Meropenam 250 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Vancomycin 250 mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj.  Fluconazole 20mg/1ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "I/v Dextrose 25% (100 ml)",
+     "Units": "100 ml",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syr. Ondansetron 4mg/5ml",
+     "Units": "50 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Misoprost 25 mcg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Labetalol 100mcg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Erythromycin 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Ampicillin 500 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Nitrofurantoin 100 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Doxycycline 100mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Amoxyxlox (Amoxycillin-250mg + Cloxacillin- 250 mg)",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Mebendazole 100 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Isoxsuprine- 10 mg SR",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Isoxsuprine- 40 mg SR",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Cap. Natural Micronised Progesterone 100mcg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Aluminium Hydroxide dried gel 200mg + Magnesium Hydroxide 200mg+simethicone 25 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Lactulose 3.335 gm/5ml",
+     "Units": "100 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Tranexamic Acid 500 md",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Syrup Zinc Sulphate 20mg/5ml",
+     "Units": "120 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftazidine 250mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Inj. Ceftazidine 500mg",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Levo Salbutamol Respirator 0.31mg/2.5ml",
+     "Units": "Amp.",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Mifepristone 200 mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Ciprofloxin 500mg + Tinidazole 600mg",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Iron Folic Acid Drops (each ml contains 20 mg Iron and 100 Micro gram Folic Acid)",
+     "Units": "100 ml bottle",
+     "Available": "Yes"
+   },
+   {
+     "Name": "Tab. Isoxsuprine- 20 mg SR",
+     "Units": "10 X 10 Strip",
+     "Available": "Yes"
+   }
+  ]
+}

@@ -1,0 +1,58 @@
+<html>
+  <head>
+
+    </div>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        $(function() {
+          var medicines = [];
+           $.getJSON('https://raw.githubusercontent.com/ginnigarg/theGladiators/master/med.json', function(data) {
+               $.each(data.Medicines, function(i, f) {
+                  var tblRow = "<tr>" + "<td>" + f.Name+ "</td>" +
+                   "<td>" + f.Units + "</td>" + "<td>" + f.Available + "</td>" +"</tr>"
+                   $(tblRow).appendTo("#userdata tbody");
+               });
+           });
+        });
+        function edit(){
+
+        }
+        function add(){
+          var Medicines = {};
+          Medicines.Name = prompt("Enter the name of the medicine : ");
+          Medicines.Units = prompt("Enter the unit : ");
+          Medicines.Availabile = (confirm("Is the "+Medicines.Name+" available ? "))?"Yes":"No";
+        }
+    </script>
+  </head>
+
+  <body>
+
+    <div class="wrapper">
+    <div class="profile">
+      <button onclick="edit()">Edit</button>
+      <button onclick="add()">Add Medicines</button>
+
+       <table id= "userdata" border="2" align="center">
+      <thead>
+                <th>Name</th>
+                <th>Units Available</th>
+                <th>Available</th>
+                <th>Price</th>
+                <th>Expiry Date</th>
+                <th>Stock</th>
+            </thead>
+          <tbody>
+
+           </tbody>
+       </table>
+
+    </div>
+
+  </body>
+  <script type="text/javascript">
+
+  </script>
+</html>

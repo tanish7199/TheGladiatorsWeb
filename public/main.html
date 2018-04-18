@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>The Gladiators</title>
+
+    <!-- Bootstrap
+    <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">-->
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Tangerine|Roboto|Satisfy" rel="stylesheet">
+
+      <style>
+        #logo{
+          margin-top: 8px;
+          margin-left: 8px;
+        }
+      </style>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+      <script>
+          var name="user";
+
+          var greet= "hello " + name;
+          document.getElementById("greet").innerHTML = greet;
+      </script>
+
+
+
+
+  </head>
+  <body>
+
+    <!--  =========================Navbar================================================== -->
+
+    <div id="cssmenu" class="navigate">
+    <ul>
+       <li class='active'><a href='#cssmenu'> <img src="media/glad.png" height="18px"></a></li>
+       <li>
+         <div class="wrap">
+
+        </div>
+       </li>
+       <li><span id="greet"></span></li>
+       <li><a href="#diseases">Diseases</a></li>
+      <li><a href="#med">Medicines</a></li>
+      <li><a href="#medical-safety">Medical Safety</a></li>
+      <li><a href="#map">Find Medical Stores</a></li>
+      <li><a href="aboutus.html">About Us</a></li>
+      <li style="float:right"><a> Hi, <span id="greet"> User </span> </a></li>
+
+    </ul>
+    </div>
+
+
+
+
+      <!--  =========================Navbar End================================================== -->
+
+
+    <!-- Video Section Starts
+
+          <video id="video1" width="100%" start=10 autoplay loop controls style="background-color:white">
+
+              <source src="media/video.MKV#t=10,150" type="video/mp4">
+
+          </video>
+
+    -->
+
+  <div class="header">
+    <img src="media/med.jpg" alt="Image" style="width: 100%">
+  </div>
+
+    <!-- Disease Area Starts -->
+
+    <div class="wrapper">
+      <h1 class="text" id="diseases">Diseases</h1>
+      <img src="media/flourish.png" alt="----------" style="margin-left:37.5vw;margin-right:40vw;width:180px;">
+      <div class="cols">
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/fever1.jpeg)">
+                <div class="inner">
+                  <p>Diarrhea</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Fever</li>
+                  	<li>Abdominal Cramps</li>
+                  	<li>Abdominal Pains</li>
+                  	<li>Bloating</li>
+                  	<li>Nausea</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image : url(media/cold.jpeg)">
+                <div class="inner">
+                  <p>Typhoid</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Fever</li>
+                  	<li>Weakness</li>
+                  	<li>Stomach Pains</li>
+                  	<li>Headache</li>
+                  	<li>Loss of Appetite</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/acid.jpeg); ">
+                <div class="inner">
+                  <p>Tumor</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Seizures</li>
+                  	<li>Headache</li>
+                  	<li>Drowsiness</li>
+                  	<li>Fatigue</li>
+                  	<li>Nausea</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/chick.jpg)">
+                <div class="inner">
+                  <p>Cancer</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Blood in the Stool</li>
+                  	<li>Unexplained anemia</li>
+                  	<li>Change in urination</li>
+                  	<li>Blood in the urine</li>
+                  	<li>Hoarseness</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/head.jpeg)">
+                <div class="inner">
+                  <p>Tuberclosis</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>High Coughing</li>
+                  	<li>Chest Pain</li>
+                  	<li>Unintentional Weight-loss</li>
+                  	<li>Pain with Breathing</li>
+                  	<li>Weakness</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/tooth.jpeg)">
+                <div class="inner">
+                  <p>AIDS</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Sore throat</li>
+                  	<li>Bad yeast infections</li>
+                  	<li>Getting bad infections a lot</li>
+                  	<li>Headaches</li>
+                  	<li>Thrush</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/headache.jpg)">
+                <div class="inner">
+                  <p>Diabetes</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Body Aches</li>
+                  	<li>Weakness</li>
+                  	<li>Blurred vision</li>
+                  	<li>Dry mouth and itchy skin</li>
+                  	<li>Excessive thirst and hunger</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col" ontouchstart="this.classList.toggle('hover');">
+            <div class="container">
+              <div class="front" style="background-image: url(media/cough.jpg)">
+                <div class="inner">
+                  <p>Migraine</p>
+
+                </div>
+              </div>
+              <div class="back">
+                <div class="inner">
+                  <ul>
+                  	<li>Constipation</li>
+                  	<li>Food cravings</li>
+                  	<li>Neck stiffness</li>
+                  	<li>Increased thirst and urination</li>
+                  	<li>Frequent yawning</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+     </div>
+
+    <!-- Diseases Area Ends -->
+
+    <!-- Medicine Area Starts -->
+    <div class="backg">
+      <h1 class="text" id="med">Medicines</h1>
+    <div class="wrapper">
+      <div class="cols">
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/adavert.jpg)">
+    						<div class="inner">
+    							<p>Adavert</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    						  <p>It contains the active ingredient Meclizine, which is an antihistamine that's commonly used to treat nausea and dizziness. .</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image : url(media/crocin.jpg)">
+    						<div class="inner">
+    							<p>Crocin</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>It helps relieve the symptoms– so you can think clearly again which helps bring back your focus. It is a non-drowsy formulation.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/itchrelief.jpg); background-size:">
+    						<div class="inner">
+    							<p>Itch Relief</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>Itch Relief is an effective antiseptic, anti-fungal and anti-bacterial agent that relieves itching, especially itching associated with dry skin.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/lipitor.png)">
+    						<div class="inner">
+    							<p>Lipitor</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>Atorvastatin is used to treat high cholesterol, and to lower the risk of strokeor other heart complications.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/migraine.jpg)">
+    						<div class="inner">
+    							<p>Migraine</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>The diagnosis of a migraine is based on signs and symptoms.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/salinase.jpg)">
+    						<div class="inner">
+    							<p>Salinase</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>Drops, Spray & Nebulizing soln: Moisturizes dry, crusted & stuffy nostrils due to allergy, colds, sinusitis or overuse of antihistamine decongestants. </p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/saridon.jpg)">
+    						<div class="inner">
+    							<p>Saridon</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>Saridon Tablet, classified as a mild analgesic, is used to treat fever and is the most commonly used pain reliever.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col" ontouchstart="this.classList.toggle('hover');">
+    				<div class="container">
+    					<div class="front" style="background-image: url(media/ocuhills.jpg)">
+    						<div class="inner">
+    							<p>Ocuhills</p>
+
+    						</div>
+    					</div>
+    					<div class="back">
+    						<div class="inner">
+    							<p>Occuhills capsule by Herbalhills is uniquely designed for those who sit for long hours in front of a computer screen.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+     </div>
+   </div>
+
+    <!-- Medicine Area Ends -->
+
+    <!-- Video Area Starts.... -->
+    <div class="video-secn">
+      <h1 class="text" id="medical-safety">Medical Safety</h1>
+      <img src="media/flourish.png" alt="----------" style="margin-left:32vw;margin-right:30vw;width:250px;margin-top:10px; margin-bottom: 15px;">
+      <div class="vid">
+        <div class="iframe">
+          <iframe width="800" height="450" src="https://www.youtube.com/embed/gHv7KWB9RuI?start=10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <div class="para">
+          <h1 class="text" style="margin-top:0">Why??</h1>
+          <p class="text">Medications are the leading cause of child poisoning. In 2013, over 59,000 children were seen in emergency room for medicine poisoning.
+             That’s one child every nine minutes. Almost all of these visits are because the child got into medicines during a moment alone.
+             Medication safety is especially important for children under 5.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Area Ends.... -->
+
+    <!-- Map -->
+
+    <div class="map" id="map">
+      <h1 class="text">Find Medical Stores</h1>
+      <a href="medicalLocations.html"><img src="media/map.png" alt="MAP"></a>
+    </div>
+
+
+
+    <div style="height:150px; width:100%; background-color: black"></div>
+
+
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        // Add smooth scrolling to all links
+        $("a").on('click', function(event) {
+
+          // Make sure this.hash has a value before overriding default behavior
+          if (this.hash !== "") {
+            // Prevent default anchor click behavior
+            event.preventDefault();
+
+            // Store hash
+            var hash = this.hash;
+
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+            $('html, body').animate({
+              scrollTop: $(hash).offset().top
+            }, 800, function(){
+
+              // Add hash (#) to URL when done scrolling (default click behavior)
+              window.location.hash = hash;
+            });
+          } // End if
+        });
+      });
+      </script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

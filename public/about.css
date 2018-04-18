@@ -1,0 +1,145 @@
+body {
+  background: #333;
+  font-family: arial, san-serif;
+  color: #fff;
+}
+.card {
+  margin: 20px 0 0;
+  max-width: 640px;
+}
+.card-container {
+	position: relative;
+  height: 0;
+  padding-bottom: 75%;
+}
+.card .front,
+.card .back {
+  position: absolute;
+  top: 0;
+	left: 0;
+	max-width: 640px;
+	max-height: 480px;
+	transform-style: preserve-3d;
+	backface-visibility: hidden;
+	transition: all .5s ease-out;
+}
+.card .front {
+	transform: perspective(900px) rotateY(-180deg);
+}
+.card .back {
+	width: 100%;
+	background-color: #242424;
+  color: #fff;
+	transform: perspective(900px) rotateY(0deg);
+}
+.card.not-flipped .front {
+	transform: perspective(900px) rotateY(0deg);
+}
+.card.not-flipped .back {
+	background-color: #000;
+  color: #000;
+	transform: perspective(900px) rotateY(180deg);
+}
+.card .back h2 {
+	padding: 60px 18px 6px;
+}
+.card .back p {
+	padding: 0 18px;
+	line-height: 22px;
+}
+.card .cancel-card {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	display: block;
+	font: 24px;
+	color: #999;
+	cursor: pointer;
+}
+.no-csstransforms3d .card.not-flipped .front {
+	z-index: 10;
+}
+@media (max-width: 979px) {
+	.card {
+		margin: 20px 20px 0;
+	}
+	.card .back h2 {
+		padding: 18px 18px 0;
+		font-size: 18px;
+	}
+	.card .back p {
+		font-size: 14px;
+		line-height: 18px;
+	}
+}
+@media (max-width: 479px) {
+	.card .back h2 {
+		padding: 14px 14px 0;
+		font-size: 14px;
+	}
+	.card .back p {
+		margin: .5em 0;
+		padding: 0 14px;
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+}
+/* -- CSS Grid - Borrowed from Bootstrap -- */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.row {
+  margin-left: -20px;
+}
+.row:before,
+.row:after {
+  display: table;
+  content: "";
+}
+.row:after {
+  clear: both;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 940px;
+}
+.container:before,
+.container:after {
+  display: table;
+  content: "";
+}
+.container:after {
+  clear: both;
+}
+.span6 {
+  float: left;
+  margin-left: 20px;
+  width: 460px;
+}
+@media (max-width: 767px) {
+  .container {
+    width: auto;
+  }
+  .span6 {
+    float: none;
+    display: block;
+    width: auto;
+    margin-left: 0;
+  }
+  .card {
+    margin: 20px auto 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 979px) {
+  .container {
+    width: 724px;
+  }
+  .span6 {
+    width: 352px;
+  }
+}

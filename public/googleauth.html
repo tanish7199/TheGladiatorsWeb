@@ -1,0 +1,49 @@
+<html>
+  <head>
+
+  </head>
+  <body>
+    <button onclick="auth()"> Auth</button>
+
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase-auth.js"></script>
+
+      <script>
+      function auth(){
+          var provider = new firebase.auth.GoogleAuthProvider();
+          firebase.auth().signInWithPopup(provider).then(function(result) {
+          // This gives you a Google Access Token. You can use it to access the Google API.
+          var token = result.credential.accessToken;
+          // The signed-in user info.
+          var user = result.user;
+          setUserName(user);
+          // ...
+        }).catch(function(error) {
+        // Handle Errors here.
+        document.write("NETWORK ISSUES");
+          var errorCode = error.code;
+          var errorMessage = error.message;
+          // The email of the user's account used.
+          var email = error.email;
+          // The firebase.auth.AuthCredential type that was used.
+          var credential = error.credential;
+        // ...
+        });
+      }
+
+    </script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyCJIBH4EOAQRnKvlG5RgT6wmrjr1g7vWcU",
+        authDomain: "thegladiators-1523684696276.firebaseapp.com",
+        databaseURL: "https://thegladiators-1523684696276.firebaseio.com",
+        projectId: "thegladiators-1523684696276",
+        storageBucket: "thegladiators-1523684696276.appspot.com",
+        messagingSenderId: "241591032275"
+      };
+      firebase.initializeApp(config);
+      </script>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+[debug] [2018-04-16T18:09:00.399Z] ----------------------------------------------------------------------
+[debug] [2018-04-16T18:09:00.410Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tanish Agarwal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-04-16T18:09:00.410Z] CLI Version:   3.18.4
+[debug] [2018-04-16T18:09:00.410Z] Platform:      win32
+[debug] [2018-04-16T18:09:00.410Z] Node Version:  v8.10.0
+[debug] [2018-04-16T18:09:00.410Z] Time:          Mon Apr 16 2018 23:39:00 GMT+0530 (India Standard Time)
+[debug] [2018-04-16T18:09:00.410Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-16T18:09:00.420Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-04-16T18:09:00.420Z] > authorizing via signed-in user
+[debug] [2018-04-16T18:09:00.420Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/thegladiators-16fa7  
+  
+ Mon Apr 16 2018 23:39:00 GMT+0530 (India Standard Time)
+[debug] [2018-04-16T18:09:01.764Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-16T18:09:01.764Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/thegladiators-16fa7/tokens  
+  
+ Mon Apr 16 2018 23:39:01 GMT+0530 (India Standard Time)
+[debug] [2018-04-16T18:09:02.963Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-16T18:09:02.963Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/thegladiators-16fa7  
+  
+ Mon Apr 16 2018 23:39:02 GMT+0530 (India Standard Time)
+[debug] [2018-04-16T18:09:04.740Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Tanish Agarwal\Desktop\theGladiators-master'...
+[info] 
+[debug] [2018-04-16T18:09:04.750Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/46718282107/clients/_:getWebAppConfig  
+  
+ Mon Apr 16 2018 23:39:04 GMT+0530 (India Standard Time)
+[debug] [2018-04-16T18:09:05.633Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+

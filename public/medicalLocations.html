@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place searches</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+      #map {
+        height: 80%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 5px;
+        padding: 0px;
+      }
+    </style>
+    <script>
+      var map,infowindow,radius,zoom;
+      var user = [];
+      Radius=5000;
+      Zoom=13;
+
+      function refresh(){
+        if(document.getElementById("radius").value)
+          Radius = parseInt(document.getElementById("radius").value);
+        if(document.getElementById("zoom").value)
+          Zoom = parseInt(document.getElementById("zoom").value);
+      }
+
+      function initMap() {
+        var pyrmont = {lat: 30.7333, lng: 76.7794};
+
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: pyrmont,
+          zoom: Zoom
+        });
+
+        infowindow = new google.maps.InfoWindow();
+        var service = new google.maps.places.PlacesService(map);
+        service.nearbySearch({
+          location: pyrmont,
+          radius: Radius,
+          name: ['medical']
+        }, callback);
+      }
+
+      function callback(results, status) {
+        if (status === google.maps.places.PlacesServiceStatus.OK) {
+          for (var i = 0; i < results.length; i++) {
+            createMarker(results[i]);
+          }
+        }
+      }
+
+      function createMarker(place) {
+        var placeLoc = place.geometry.location;
+        var marker = new google.maps.Marker({
+          map: map,
+          position: place.geometry.location
+        });
+
+        google.maps.event.addListener(marker, 'click', function() {
+          window.open("data.html",self);
+          infowindow.setContent(place.name);
+          infowindow.open(map, this);
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <!--  =========================Navbar================================================== -->
+
+    <div id="cssmenu" class="navigate">
+    <ul>
+       <li class='active'><a href='#cssmenu'> <img src="media/glad.png" height="18px"></a></li>
+       <li>
+         <div class="wrap">
+
+        </div>
+       </li>
+       <li><span id="greet"></span></li>
+       <li><a href="main.html#diseases">Diseases</a></li>
+      <li><a href="main.html#med">Medicines</a></li>
+      <li><a href="main.html#medical-safety">Medical Safety</a></li>
+      <li><a href="main.html#map">Find Medical Stores</a></li>
+      <li><a href="aboutus.html">About Us</a></li>
+      <li style="float:right"><a> Hi, <span id="greet"> User </span> </a></li>
+
+    </ul>
+    </div>
+
+
+
+
+      <!--  =========================Navbar End================================================== -->
+
+    <div id="map" style="margin-top:20px"></div>
+    <div>
+        <label for="radius">
+          Radius :
+        </label>
+        <input type="number" id="radius" name="radius">
+        <label for="zoom">
+          Zoom :
+        </label>
+        <input type="number" id="zoom" name="zoom"><br>
+        <button onclick=refresh() style="height:30px;width:90px;margin-top:5px;background-color:lightblue"> Apply Changes</button>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/script.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUpylRpJqqBx9XTBTUn55xrBTJi-yyelo&libraries=places&callback=initMap" async defer></script>
+  </body>
+</html>
